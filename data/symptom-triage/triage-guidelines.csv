@@ -1,0 +1,14 @@
+keywords,normalized_term,body_system,red_flags,severity
+"heart,chest,breath,squeeze,angina,cardiac","Chest Pain / Cardiac Symptoms","Cardiovascular","Possible myocardial infarction",5
+"stroke,paralysis,slurred,face droop,numbness","Neurological Deficit / Stroke","Neurological","High risk for CVA",5
+"bleed,profuse,hemorrhage,gushing","Severe Hemorrhage","Cardiovascular","High risk for hypovolemic shock",5
+"seizure,convulsion,fit,shaking,frothed","Seizures","Neurological","Status epilepticus warning",5
+"burn,fire,scald,charred","Severe Burns","Integumentary","Infection and shock risk",4
+"bone,fracture,broken,snap,crack","Fracture / Orthopedic Trauma","Musculoskeletal","Potential nerve and vessel damage",4
+"stomach,vomit,puke,diarrhea,nausea,abdominal","Gastroenteritis / GI Distress","Gastrointestinal","Dehydration risk",3
+"fever,cough,cold,headache,sneeze,shiver","Viral Infection / URI","Respiratory","",2
+"rash,itch,hive,redness","Dermatitis / Allergic Reaction","Integumentary","Monitor for anaphylaxis",2
+"joint,ache,muscle,sore","Myalgia / Arthralgia","Musculoskeletal","",2
+"eye,vision,blur,red eye,itchy eye","Ocular Irritation","Sensory / Ocular","",2
+"ear,deaf,ring,earache","Otitis / Tinnitus","Sensory / Auditory","",2
+"tooth,gum,chew,jaw pain","Dental / Periodontal issue","Dental","",2

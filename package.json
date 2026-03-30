@@ -1,0 +1,16 @@
+{
+  "name": "aarogya-vaad",
+  "version": "1.0.0",
+  "description": "Vernacular Health Intelligence Platform",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "backend"
+  ],
+  "scripts": {
+    "dev:backend": "npm run dev --workspace=backend",
+    "dev:mobile": "npm run start --workspace=apps/mobile",
+    "dev:web": "npm run dev --workspace=apps/web",
+    "dev": "npm run dev:backend & npm run dev:web & npm run dev:mobile"
+  }
+}
